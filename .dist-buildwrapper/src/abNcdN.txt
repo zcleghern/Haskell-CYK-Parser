@@ -1,0 +1,13 @@
+Z W X Y S A B C D
+S
+a b c d
+8
+S XZ
+S WZ
+X WS
+W AB
+Z CD
+A a
+B b
+C c
+D d

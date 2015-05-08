@@ -1,0 +1,9 @@
+Z X Y S
+S
+a b
+5
+X a
+Y b
+S XY
+S XZ
+Z SY
