@@ -1,0 +1,12 @@
+Z X Y S R
+R
+a b
+8
+X a
+Y b
+S XY
+S XZ
+Z SY
+R SR
+R XY
+R XZ

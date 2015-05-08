@@ -1,0 +1,12 @@
+Z X Y S A B C
+S
+a b c
+8
+S XA
+S YB
+S c
+X AS
+Y BS
+A a
+B b
+C c
